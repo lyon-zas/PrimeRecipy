@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861047149722",
+    "project_id": "primerecipy",
+    "storage_bucket": "primerecipy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861047149722:android:1c1e8b1cd583d56eba3b23",
+        "android_client_info": {
+          "package_name": "com.example.primerecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861047149722-elpp2f604dfus394r0qf42oiiv0uoipa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKQmgEb3o5bNLyPneGPDJfaGsb8JaH0e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861047149722-elpp2f604dfus394r0qf42oiiv0uoipa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
